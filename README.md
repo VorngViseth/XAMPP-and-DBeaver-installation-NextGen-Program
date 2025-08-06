@@ -46,6 +46,12 @@ if you don't see the GUI of XAMPP run :
 sudo /opt/lampp/manager-linux-x64.run
 ```
 
+## XAMPP FAQs
+
+if you have any problem, go read : 
+
+-[XAMPP-FAQs](https://www.apachefriends.org/faq_linux.html)
+
 ## DBeaver 
 
 ### installation
