@@ -79,3 +79,28 @@ sudo apt install DBeaver<version>.deb
 -[XAMPP-installation-guid](https://www.youtube.com/watch?v=C1pE0fzBj6U)
 
 -[DBeaver-installation-guid](https://www.youtube.com/watch?v=BnpNS1aQM90&t=70s)
+
+
+# MySQL 
+
+## MySQL comman line 
+
+start MySQL
+```
+sudo systemctl start mysql
+```
+
+check MySQL status
+```
+systemctl status mysql
+``` 
+
+stop MySQl
+```
+sudo systemctl start mysql
+```
+
+open MySQL workbench (reccoement using DBeaver)
+```
+mysql-workbench-community
+```
